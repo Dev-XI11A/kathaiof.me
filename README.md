@@ -1,18 +1,18 @@
-# Storyofme
+# Kathai of me
 
 > A social blogging platform for writers and creators
 
 # Setup
 
-StoryOfMe uses MongoDB as the database, Express.js as the backend and Next.js as the SSR Server.
+KathaiOfMe uses MongoDB as the database, Express.js as the backend and Next.js as the SSR Server.
 
 ## Running the project
 
 Clone the project to your local machine and CD into the project folder to install the necessary dependencies.
 ```bash
-git clone https://github.com/haxzie/storyof.me
+git clone https://github.com/Dev-XI11A/kathaiof.me
 
-cd stoyof.me
+cd kathaiof.me
 
 npm install
 ```
